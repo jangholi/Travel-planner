@@ -8,7 +8,11 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
+  "packageManager": "pnpm@8.13.1",
   "devDependencies": {
     "nuxt": "^3.9.0"
+  },
+  "dependencies": {
+    "pnpm": "^8.13.1"
   }
 }
